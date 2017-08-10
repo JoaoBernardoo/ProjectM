@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!--Tiled2Unity generated xml data-->
 <!--Do not modify by hand-->
-<!--Last exported: 5/24/2017 11:30:11 AM-->
+<!--Last exported: 8/10/2017 1:13:20 PM-->
 <Tiled2Unity version="1.0.11.2">
   <AssignMaterial mesh="mesh_0001" material="roguelikeSheet_transparent" />
   <AssignMaterial mesh="mesh_0002" material="roguelikeSheet_transparent" />
   <AssignMaterial mesh="mesh_0003" material="roguelikeSheet_transparent" />
-  <Prefab name="practiceMap" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="3" numTilesWide="75" numTilesHigh="75" tileWidth="16" tileHeight="16" exportScale="1" mapWidthInPixels="1200" mapHeightInPixels="1200" backgroundColor="#808080">
+  <Prefab name="practiceMap" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="3" numTilesWide="75" numTilesHigh="75" tileWidth="16" tileHeight="16" exportScale="1" mapWidthInPixels="1200" mapHeightInPixels="1200" backgroundColor="#808080" scale=".0625">
     <GameObject name="Tile Layer 1" x="0" y="0" z="0">
       <TileLayer opacity="1" offsetX="0" offsetY="0" />
       <GameObject name="roguelikeSheet_transparent" copy="mesh_0001" sortingLayerName="" sortingOrder="0" opacity="1" />
@@ -89,7 +89,7 @@
     </GameObject>
     <GameObject name="object" x="0" y="0" z="0">
       <TileLayer opacity="1" offsetX="0" offsetY="0" />
-      <GameObject name="roguelikeSheet_transparent" copy="mesh_0003" sortingLayerName="" sortingOrder="2" opacity="1" />
+      <GameObject name="roguelikeSheet_transparent" copy="mesh_0003" sortingLayerName="WorldObjects" sortingOrder="2" opacity="1" />
       <GameObject name="Collision">
         <PolygonCollider2D>
           <Path>624,-400 608,-400 608,-415 624,-415</Path>
