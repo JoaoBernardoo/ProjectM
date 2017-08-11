@@ -319,7 +319,7 @@ MonoBehaviour:
     - {fileID: 1102699678554459234, guid: 22ba66c3d402f5045a33722217d21980, type: 2}
     - {fileID: 1102446952378856614, guid: 22ba66c3d402f5045a33722217d21980, type: 2}
     m_ValueSerializationHelper:
-    - {x: 685.80005, y: 149.40004}
+    - {x: 685.80005, y: 146.40001}
     - {x: 481.69995, y: 186.40002}
     - {x: 739.2, y: 152.80005}
   m_PreviewAnimator: {fileID: 0}
@@ -526,7 +526,7 @@ MonoBehaviour:
     y: 92
     width: 275
     height: 750
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 370.95508}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 160
@@ -561,9 +561,9 @@ MonoBehaviour:
     height: 445
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 52350000
-    m_LastClickedID: 0
-    m_ExpandedIDs: cefbffffd4fbffffd6fbffff00000000
+    m_SelectedIDs: 7c340000
+    m_LastClickedID: 13436
+    m_ExpandedIDs: 06f6ffffd4fbffffd6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -647,9 +647,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 9.6893015
+    m_Target: 31.800379
     speed: 2
-    m_Value: 9.6893015
+    m_Value: 31.800379
   m_Ortho:
     m_Target: 1
     speed: 2
